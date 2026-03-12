@@ -1,6 +1,6 @@
 === Expire User Passwords ===
 Contributors:      fjarrett, millermedianow, millermediadev
-Tags:              passwords, security, login, users, membership
+Tags: password-expiry, security, passwords, login, users
 Requires at least: 4.0
 Tested up to:      6.9
 Stable tag: 1.4.2
